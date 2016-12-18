@@ -21,4 +21,4 @@ function task2() {
     print("3." + indent + "Вам < Вампір = " + ('Вам' < 'Вампір')); // true
 }
 ```
-Project published at:
+Project published at: https://matviishun.github.io/module-5/
